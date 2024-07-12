@@ -1,4 +1,4 @@
-module search.com
+module github.com/caesar-rocks/search
 
 go 1.21.2
 
